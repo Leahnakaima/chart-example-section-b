@@ -30,3 +30,7 @@ body {
   stroke: steelblue;
 }
 
+#apple-stock-container {
+  color: red;
+  border: 5px solid black;
+}
